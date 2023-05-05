@@ -1,6 +1,6 @@
 # Weibull_Project
 
-The folder **amit_work** contains the coding part related to this project. Here's the details related to the files inside:
+The folder **main_dir** contains the coding part related to this project. Here's the details related to the files inside:
 
 
 ### **Folders:**
