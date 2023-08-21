@@ -44,3 +44,5 @@ The folder **main_dir** contains the coding part related to this project. Here's
 1. **requirements.txt**: This file lists all the Python packages and their versions required to run the Jupyter Notebooks.
 
 2. **ridge_plot.py**: This Python file contains the code to generate the ridge plot, which is used in some of the Jupyter Notebooks.
+
+![Final_result.png](https://github.com/amitamola/Weibull_Project/blob/main/final_table.png)
