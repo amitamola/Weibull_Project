@@ -45,4 +45,8 @@ The folder **main_dir** contains the coding part related to this project. Here's
 
 2. **ridge_plot.py**: This Python file contains the code to generate the ridge plot, which is used in some of the Jupyter Notebooks.
 
+### **Final result of our analysis**
+
+Our results indicate that Dublin Airport is the most appropriate location for constructing a wind power station for the five stations analysed. Using historical data, we find reliable wind patterns at this location, which ensure that potential wind turbines can be operative for a large majority of the time for every season. A second choice location with interesting attributes would be Roches Point, Cork. Even though the performance of wind turbines would not be as consistent across seasons as in the case of Dublin Airport, Roches Point empirically shows to be an attractive location for wind turbines, which would especially be productive during the spring and summer seasons.
+
 ![Final_result.png](https://github.com/amitamola/Weibull_Project/blob/main/final_table.png)
