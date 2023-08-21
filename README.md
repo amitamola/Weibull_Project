@@ -1,6 +1,4 @@
-# Weibull_Project
-
-### [Final paper](https://github.com/amitamola/Weibull_Project/blob/main/DataAnalalytics%20Wind%20Paper%20Final.pdf)
+# Weibull_Project - [Final paper](https://github.com/amitamola/Weibull_Project/blob/main/DataAnalalytics%20Wind%20Paper%20Final.pdf)
 
 ![Header.png](https://github.com/amitamola/Weibull_Project/blob/main/fitted_weibull.png)
 
