@@ -1,5 +1,8 @@
 # Weibull_Project
 
+### [Final paper](https://github.com/amitamola/Weibull_Project/blob/main/DataAnalalytics%20Wind%20Paper%20Final.pdf)
+
+
 The folder **main_dir** contains the coding part related to this project. Here's the details related to the files inside:
 
 
