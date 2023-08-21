@@ -2,7 +2,7 @@
 
 ### [Final paper](https://github.com/amitamola/Weibull_Project/blob/main/DataAnalalytics%20Wind%20Paper%20Final.pdf)
 
-<img src="https://github.com/Bridgei2i/strided_inference/blob/master/images/let.png" width="680">
+![Header.png](https://github.com/amitamola/Weibull_Project/blob/main/fitted_weibull.png)
 
 
 The folder **main_dir** contains the coding part related to this project. Here's the details related to the files inside:
